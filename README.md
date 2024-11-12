@@ -6,3 +6,4 @@
 Hello git!
 末尾に1行追加
 aaa
+bbbb
